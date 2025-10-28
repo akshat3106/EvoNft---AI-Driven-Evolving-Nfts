@@ -3,10 +3,11 @@
 An AI-powered evolving NFT system where artworks evolve over time using AI and are stored on IPFS.
 
 🚀 **Live Demo:** [https://evo-nft-pied.vercel.app](https://evo-nft-pied.vercel.app)
+
 🔗 **Smart Contract:** [View on Etherscan (Sepolia)](https://sepolia.etherscan.io/token/0x3f8BEfeB186a6B536d44cC3e10eE29d0041DA8f6)
 
 
-This is an **Express.js backend** for handling NFT minting and evolution with metadata and images stored on **Pinata IPFS**. It integrates with an Ethereum-compatible blockchain using **ethers.js**.  
+This is **Solidity** smart contract code for nft protocol and also **Express.js backend** for handling NFT minting and evolution with metadata and images stored on **Pinata IPFS**. It integrates with an Ethereum-compatible blockchain using **ethers.js**.  
 
 ## 🚀 Features
 - Upload images to Pinata IPFS.  
